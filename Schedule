@@ -5,5 +5,4 @@ class Caregiver:
   self.email = email
   self.payrate = payrate
   self.hours = hours
-
-self.availability = {"Monday" : }
+  self.availability = {"Monday AM" : "available", "Monday PM" : "available"}
